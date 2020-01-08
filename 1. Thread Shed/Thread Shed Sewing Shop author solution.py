@@ -1,8 +1,8 @@
-Thread Shed taylor shop
+# -*- coding: utf-8 -*-
 """
 Created on Thu Sep 19 19:49:35 2019
 
-@author: OK Computer
+@author: Alina Molnar
 """
 
 daily_sales = \

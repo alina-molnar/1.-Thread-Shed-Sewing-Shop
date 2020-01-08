@@ -2,7 +2,7 @@
 """
 Created on Fri Sep 20 13:22:24 2019
 
-@author: OK Computer
+@author: Alina Molnar
 """
 
 daily_sales = \
